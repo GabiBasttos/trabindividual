@@ -33,7 +33,6 @@ export const stylehome = StyleSheet.create({
              
     },
 
-
     button:{
         backgroundColor: '#0063ff',
         borderWidth: 0.5,
